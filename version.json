@@ -1,8 +1,8 @@
 {
-    "version": "2.7.2",
-    "build_number": 102,
+    "version": "2.7.3",
+    "build_number": 103,
     "db_schema_version": 2,
     "release_date": "2026-11-08",
-    "release_name": "Aggiornamento con zip - seconda prova",
-    "download_url": "https://github.com/Gabry1965/PyPlan-Releases/releases/download/v2.7.2/update_v2.7.2_build102.zip"
+    "release_name": "Aggiornamento con zip - terza prova",
+    "download_url": "https://github.com/Gabry1965/PyPlan-Releases/releases/download/v2.7.3/update_v2.7.3_build103.zip"
 }
